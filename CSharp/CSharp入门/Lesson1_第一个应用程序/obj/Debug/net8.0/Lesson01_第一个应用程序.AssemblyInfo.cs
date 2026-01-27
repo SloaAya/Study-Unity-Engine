@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson01_第一个应用程序")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16f4806279c9936e4fc672027c8da256b93a0089")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson01_第一个应用程序")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson01_第一个应用程序")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

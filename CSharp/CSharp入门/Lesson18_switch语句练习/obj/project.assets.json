@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson18_switch语句练习\\Lesson18_switch语句练习.csproj",
+      "projectUniqueName": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson18_switch语句练习\\Lesson18_switch语句练习.csproj",
       "projectName": "Lesson18_switch语句练习",
-      "projectPath": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson18_switch语句练习\\Lesson18_switch语句练习.csproj",
+      "projectPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson18_switch语句练习\\Lesson18_switch语句练习.csproj",
       "packagesPath": "C:\\Users\\Ran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson18_switch语句练习\\obj\\",
+      "outputPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson18_switch语句练习\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\VisualStudio\\Shared\\NuGetPackages"

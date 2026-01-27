@@ -3,13 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_练习题", "Test1\Lesson02_练习题.csproj", "{8CF719EF-AED1-4756-89F2-958CB4DA5B89}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson01_第一个应用程序", "Lesson1_第一个应用程序\Lesson01_第一个应用程序.csproj", "{89BC88EE-5FE5-4E69-AF9B-4BDC2BC7F15B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_变量", "Lesson2_变量\Lesson02_变量.csproj", "{536E7EE9-A290-495F-B915-9AB78F309BFC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "变量练习题", "变量练习题\变量练习题.csproj", "{FCD3F7E6-F2B4-4DB5-948D-ABD191E841D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson03_变量本质", "Lesson3_变量本质\Lesson03_变量本质.csproj", "{D538EB84-6C8A-4099-9A22-28F945F972FE}"
 EndProject
@@ -67,10 +63,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8CF719EF-AED1-4756-89F2-958CB4DA5B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8CF719EF-AED1-4756-89F2-958CB4DA5B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8CF719EF-AED1-4756-89F2-958CB4DA5B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8CF719EF-AED1-4756-89F2-958CB4DA5B89}.Release|Any CPU.Build.0 = Release|Any CPU
 		{89BC88EE-5FE5-4E69-AF9B-4BDC2BC7F15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{89BC88EE-5FE5-4E69-AF9B-4BDC2BC7F15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89BC88EE-5FE5-4E69-AF9B-4BDC2BC7F15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -79,10 +71,6 @@ Global
 		{536E7EE9-A290-495F-B915-9AB78F309BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{536E7EE9-A290-495F-B915-9AB78F309BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{536E7EE9-A290-495F-B915-9AB78F309BFC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FCD3F7E6-F2B4-4DB5-948D-ABD191E841D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FCD3F7E6-F2B4-4DB5-948D-ABD191E841D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FCD3F7E6-F2B4-4DB5-948D-ABD191E841D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FCD3F7E6-F2B4-4DB5-948D-ABD191E841D1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D538EB84-6C8A-4099-9A22-28F945F972FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D538EB84-6C8A-4099-9A22-28F945F972FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D538EB84-6C8A-4099-9A22-28F945F972FE}.Release|Any CPU.ActiveCfg = Release|Any CPU

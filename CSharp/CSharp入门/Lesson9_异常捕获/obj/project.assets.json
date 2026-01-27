@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson9_异常捕获\\Lesson09_异常捕获.csproj",
+      "projectUniqueName": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson9_异常捕获\\Lesson09_异常捕获.csproj",
       "projectName": "Lesson09_异常捕获",
-      "projectPath": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson9_异常捕获\\Lesson09_异常捕获.csproj",
+      "projectPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson9_异常捕获\\Lesson09_异常捕获.csproj",
       "packagesPath": "C:\\Users\\Ran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson9_异常捕获\\obj\\",
+      "outputPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson9_异常捕获\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\VisualStudio\\Shared\\NuGetPackages"

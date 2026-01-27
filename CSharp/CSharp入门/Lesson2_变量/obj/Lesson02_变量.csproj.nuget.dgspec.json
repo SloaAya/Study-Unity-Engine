@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson2_变量\\Lesson02_变量.csproj": {}
+    "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson2_变量\\Lesson02_变量.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson2_变量\\Lesson02_变量.csproj": {
+    "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson2_变量\\Lesson02_变量.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson2_变量\\Lesson02_变量.csproj",
+        "projectUniqueName": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson2_变量\\Lesson02_变量.csproj",
         "projectName": "Lesson02_变量",
-        "projectPath": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson2_变量\\Lesson02_变量.csproj",
+        "projectPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson2_变量\\Lesson02_变量.csproj",
         "packagesPath": "C:\\Users\\Ran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson2_变量\\obj\\",
+        "outputPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson2_变量\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\VisualStudio\\Shared\\NuGetPackages"

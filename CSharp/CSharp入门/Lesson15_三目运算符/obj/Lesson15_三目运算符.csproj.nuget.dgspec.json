@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson15_三目运算符\\Lesson15_三目运算符.csproj": {}
+    "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson15_三目运算符\\Lesson15_三目运算符.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson15_三目运算符\\Lesson15_三目运算符.csproj": {
+    "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson15_三目运算符\\Lesson15_三目运算符.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson15_三目运算符\\Lesson15_三目运算符.csproj",
+        "projectUniqueName": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson15_三目运算符\\Lesson15_三目运算符.csproj",
         "projectName": "Lesson15_三目运算符",
-        "projectPath": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson15_三目运算符\\Lesson15_三目运算符.csproj",
+        "projectPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson15_三目运算符\\Lesson15_三目运算符.csproj",
         "packagesPath": "C:\\Users\\Ran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ran\\Desktop\\Unity学习路线\\CSharp\\CSharp入门\\Lesson15_三目运算符\\obj\\",
+        "outputPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp入门\\Lesson15_三目运算符\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\VisualStudio\\Shared\\NuGetPackages"
