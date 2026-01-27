@@ -1,0 +1,14 @@
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\bin\Debug\net8.0\Lesson19_while语句.exe
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\bin\Debug\net8.0\Lesson19_while语句.deps.json
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\bin\Debug\net8.0\Lesson19_while语句.runtimeconfig.json
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\bin\Debug\net8.0\Lesson19_while语句.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\bin\Debug\net8.0\Lesson19_while语句.pdb
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\obj\Debug\net8.0\Lesson19_while语句.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\obj\Debug\net8.0\Lesson19_while语句.AssemblyInfoInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\obj\Debug\net8.0\Lesson19_while语句.AssemblyInfo.cs
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\obj\Debug\net8.0\Lesson19_while语句.csproj.CoreCompileInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\obj\Debug\net8.0\Lesson19_while语句.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\obj\Debug\net8.0\refint\Lesson19_while语句.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\obj\Debug\net8.0\Lesson19_while语句.pdb
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\obj\Debug\net8.0\Lesson19_while语句.genruntimeconfig.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson19_while语句\obj\Debug\net8.0\ref\Lesson19_while语句.dll
