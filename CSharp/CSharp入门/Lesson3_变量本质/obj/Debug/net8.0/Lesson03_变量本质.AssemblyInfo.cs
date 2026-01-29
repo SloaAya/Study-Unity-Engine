@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson03_变量本质")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fcae3a7c939966018092a3fe4f28ab23d72427a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35e5f204f72d1260ada8eb232613ae4135026bf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson03_变量本质")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson03_变量本质")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
