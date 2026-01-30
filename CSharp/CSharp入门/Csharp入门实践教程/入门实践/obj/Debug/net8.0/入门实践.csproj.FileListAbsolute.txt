@@ -1,0 +1,15 @@
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\bin\Debug\net8.0\入门实践.exe
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\bin\Debug\net8.0\入门实践.deps.json
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\bin\Debug\net8.0\入门实践.runtimeconfig.json
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\bin\Debug\net8.0\入门实践.dll
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\bin\Debug\net8.0\入门实践.pdb
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.AssemblyInfoInputs.cache
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.AssemblyInfo.cs
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.csproj.CoreCompileInputs.cache
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.sourcelink.json
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.dll
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\obj\Debug\net8.0\refint\入门实践.dll
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.pdb
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\obj\Debug\net8.0\入门实践.genruntimeconfig.cache
+D:\Study-Unity-Engine\CSharp\CSharp入门\Csharp入门实践教程\入门实践\obj\Debug\net8.0\ref\入门实践.dll

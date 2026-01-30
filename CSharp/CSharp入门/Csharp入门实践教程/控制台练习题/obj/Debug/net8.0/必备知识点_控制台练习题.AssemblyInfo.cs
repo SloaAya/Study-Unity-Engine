@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("必备知识点_控制台练习题")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a1b2cbc4c522d73c3d53813b44fd8d666412d09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd1f9881730de75470d9183e76cd290c4f412a5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("必备知识点_控制台练习题")]
 [assembly: System.Reflection.AssemblyTitleAttribute("必备知识点_控制台练习题")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

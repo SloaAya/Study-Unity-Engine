@@ -7,7 +7,7 @@ namespace 必备知识点_控制台相关
     {
       static void Main(string[] args)
         {
-            //Console.WriteLine("控制台相关");
+            Console.WriteLine("控制台相关");
             #region 知识点一 复习 输入输出
             //Console.WriteLine("123123");
             //Console.Write("12313554");
