@@ -1,0 +1,14 @@
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\bin\Debug\net8.0\Lesson9_练习.exe
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\bin\Debug\net8.0\Lesson9_练习.deps.json
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\bin\Debug\net8.0\Lesson9_练习.runtimeconfig.json
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\bin\Debug\net8.0\Lesson9_练习.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\bin\Debug\net8.0\Lesson9_练习.pdb
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\obj\Debug\net8.0\Lesson9_练习.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\obj\Debug\net8.0\Lesson9_练习.AssemblyInfoInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\obj\Debug\net8.0\Lesson9_练习.AssemblyInfo.cs
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\obj\Debug\net8.0\Lesson9_练习.csproj.CoreCompileInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\obj\Debug\net8.0\Lesson9_练习.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\obj\Debug\net8.0\refint\Lesson9_练习.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\obj\Debug\net8.0\Lesson9_练习.pdb
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\obj\Debug\net8.0\Lesson9_练习.genruntimeconfig.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson9_练习\obj\Debug\net8.0\ref\Lesson9_练习.dll

@@ -1,0 +1,14 @@
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\bin\Debug\net8.0\Lesson4_变量命名规范.exe
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\bin\Debug\net8.0\Lesson4_变量命名规范.deps.json
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\bin\Debug\net8.0\Lesson4_变量命名规范.runtimeconfig.json
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\bin\Debug\net8.0\Lesson4_变量命名规范.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\bin\Debug\net8.0\Lesson4_变量命名规范.pdb
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\obj\Debug\net8.0\Lesson4_变量命名规范.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\obj\Debug\net8.0\Lesson4_变量命名规范.AssemblyInfoInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\obj\Debug\net8.0\Lesson4_变量命名规范.AssemblyInfo.cs
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\obj\Debug\net8.0\Lesson4_变量命名规范.csproj.CoreCompileInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\obj\Debug\net8.0\Lesson4_变量命名规范.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\obj\Debug\net8.0\refint\Lesson4_变量命名规范.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\obj\Debug\net8.0\Lesson4_变量命名规范.pdb
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\obj\Debug\net8.0\Lesson4_变量命名规范.genruntimeconfig.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson4_变量命名规范\obj\Debug\net8.0\ref\Lesson4_变量命名规范.dll

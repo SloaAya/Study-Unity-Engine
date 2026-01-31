@@ -1,0 +1,15 @@
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\bin\Debug\net8.0\Lesson01_第一个应用程序.exe
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\bin\Debug\net8.0\Lesson01_第一个应用程序.deps.json
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\bin\Debug\net8.0\Lesson01_第一个应用程序.runtimeconfig.json
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\bin\Debug\net8.0\Lesson01_第一个应用程序.dll
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\bin\Debug\net8.0\Lesson01_第一个应用程序.pdb
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\obj\Debug\net8.0\Lesson01_第一个应用程序.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\obj\Debug\net8.0\Lesson01_第一个应用程序.AssemblyInfoInputs.cache
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\obj\Debug\net8.0\Lesson01_第一个应用程序.AssemblyInfo.cs
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\obj\Debug\net8.0\Lesson01_第一个应用程序.csproj.CoreCompileInputs.cache
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\obj\Debug\net8.0\Lesson01_第一个应用程序.sourcelink.json
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\obj\Debug\net8.0\Lesson01_第一个应用程序.dll
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\obj\Debug\net8.0\refint\Lesson01_第一个应用程序.dll
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\obj\Debug\net8.0\Lesson01_第一个应用程序.pdb
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\obj\Debug\net8.0\Lesson01_第一个应用程序.genruntimeconfig.cache
+D:\Study-Unity-Engine\CSharp\CSharp入门\Lesson1_第一个应用程序\obj\Debug\net8.0\ref\Lesson01_第一个应用程序.dll

@@ -1,0 +1,14 @@
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\bin\Debug\net8.0\Lesson2_变量.exe
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\bin\Debug\net8.0\Lesson2_变量.deps.json
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\bin\Debug\net8.0\Lesson2_变量.runtimeconfig.json
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\bin\Debug\net8.0\Lesson2_变量.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\bin\Debug\net8.0\Lesson2_变量.pdb
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\obj\Debug\net8.0\Lesson2_变量.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\obj\Debug\net8.0\Lesson2_变量.AssemblyInfoInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\obj\Debug\net8.0\Lesson2_变量.AssemblyInfo.cs
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\obj\Debug\net8.0\Lesson2_变量.csproj.CoreCompileInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\obj\Debug\net8.0\Lesson2_变量.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\obj\Debug\net8.0\refint\Lesson2_变量.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\obj\Debug\net8.0\Lesson2_变量.pdb
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\obj\Debug\net8.0\Lesson2_变量.genruntimeconfig.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson2_变量\obj\Debug\net8.0\ref\Lesson2_变量.dll
