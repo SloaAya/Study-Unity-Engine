@@ -1,0 +1,14 @@
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\bin\Debug\net8.0\变量练习题.exe
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\bin\Debug\net8.0\变量练习题.deps.json
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\bin\Debug\net8.0\变量练习题.runtimeconfig.json
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\bin\Debug\net8.0\变量练习题.dll
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\bin\Debug\net8.0\变量练习题.pdb
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\obj\Debug\net8.0\变量练习题.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\obj\Debug\net8.0\变量练习题.AssemblyInfoInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\obj\Debug\net8.0\变量练习题.AssemblyInfo.cs
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\obj\Debug\net8.0\变量练习题.csproj.CoreCompileInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\obj\Debug\net8.0\变量练习题.dll
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\obj\Debug\net8.0\refint\变量练习题.dll
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\obj\Debug\net8.0\变量练习题.pdb
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\obj\Debug\net8.0\变量练习题.genruntimeconfig.cache
+C:\Users\Ran\Desktop\CSharp入门\变量练习题\obj\Debug\net8.0\ref\变量练习题.dll

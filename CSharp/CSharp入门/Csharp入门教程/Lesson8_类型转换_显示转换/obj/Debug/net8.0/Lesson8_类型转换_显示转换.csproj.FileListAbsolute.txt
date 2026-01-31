@@ -1,0 +1,14 @@
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\obj\Debug\net8.0\Lesson8_类型转换_显示转换.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\obj\Debug\net8.0\Lesson8_类型转换_显示转换.AssemblyInfoInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\obj\Debug\net8.0\Lesson8_类型转换_显示转换.AssemblyInfo.cs
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\obj\Debug\net8.0\Lesson8_类型转换_显示转换.csproj.CoreCompileInputs.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\bin\Debug\net8.0\Lesson8_类型转换_显示转换.exe
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\bin\Debug\net8.0\Lesson8_类型转换_显示转换.deps.json
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\bin\Debug\net8.0\Lesson8_类型转换_显示转换.runtimeconfig.json
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\bin\Debug\net8.0\Lesson8_类型转换_显示转换.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\bin\Debug\net8.0\Lesson8_类型转换_显示转换.pdb
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\obj\Debug\net8.0\Lesson8_类型转换_显示转换.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\obj\Debug\net8.0\refint\Lesson8_类型转换_显示转换.dll
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\obj\Debug\net8.0\Lesson8_类型转换_显示转换.pdb
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\obj\Debug\net8.0\Lesson8_类型转换_显示转换.genruntimeconfig.cache
+C:\Users\Ran\Desktop\CSharp入门\Lesson8_类型转换_显示转换\obj\Debug\net8.0\ref\Lesson8_类型转换_显示转换.dll
