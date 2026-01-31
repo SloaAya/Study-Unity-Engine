@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study-Unity-Engine\\CSharp\\CSharp基础\\CSharp基础教学\\Lesson_枚举\\Lesson1_枚举.csproj",
+      "projectUniqueName": "D:\\Study-Unity-Engine\\CSharp\\CSharp基础\\CSharp基础教学\\Lesson1_枚举\\Lesson1_枚举.csproj",
       "projectName": "Lesson1_枚举",
-      "projectPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp基础\\CSharp基础教学\\Lesson_枚举\\Lesson1_枚举.csproj",
+      "projectPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp基础\\CSharp基础教学\\Lesson1_枚举\\Lesson1_枚举.csproj",
       "packagesPath": "C:\\Users\\Ran\\.nuget\\packages\\",
-      "outputPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp基础\\CSharp基础教学\\Lesson_枚举\\obj\\",
+      "outputPath": "D:\\Study-Unity-Engine\\CSharp\\CSharp基础\\CSharp基础教学\\Lesson1_枚举\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Microsoft\\VisualStudio\\Shared\\NuGetPackages"
