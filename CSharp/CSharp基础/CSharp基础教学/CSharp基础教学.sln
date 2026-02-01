@@ -5,7 +5,9 @@ VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_枚举", "Lesson1_枚举\Lesson1_枚举.csproj", "{D0960DA6-61DC-4BED-B317-8B8C3FD60E45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_1枚举练习", "Lesson_1枚举练习\Lesson_1枚举练习.csproj", "{7193E51F-2DC7-48C1-B932-07251E742D53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_枚举练习", "Lesson_1枚举练习\Lesson1_枚举练习.csproj", "{7193E51F-2DC7-48C1-B932-07251E742D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_一维数组", "Lesson2_一维数组\Lesson2_一维数组.csproj", "{01B2B943-FDE0-4C2B-A1B6-20CD709311A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7193E51F-2DC7-48C1-B932-07251E742D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7193E51F-2DC7-48C1-B932-07251E742D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7193E51F-2DC7-48C1-B932-07251E742D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B2B943-FDE0-4C2B-A1B6-20CD709311A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B2B943-FDE0-4C2B-A1B6-20CD709311A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B2B943-FDE0-4C2B-A1B6-20CD709311A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B2B943-FDE0-4C2B-A1B6-20CD709311A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
