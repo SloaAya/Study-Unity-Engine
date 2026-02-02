@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_枚举", "Lesson1_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2_一维数组", "Lesson2_一维数组\Lesson2_一维数组.csproj", "{01B2B943-FDE0-4C2B-A1B6-20CD709311A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1_枚举练习", "Lesson1_枚举练习\Lesson1_枚举练习.csproj", "{9C1263E1-A025-8767-F6CE-7B79C9B2E9C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{01B2B943-FDE0-4C2B-A1B6-20CD709311A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01B2B943-FDE0-4C2B-A1B6-20CD709311A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01B2B943-FDE0-4C2B-A1B6-20CD709311A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C1263E1-A025-8767-F6CE-7B79C9B2E9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1263E1-A025-8767-F6CE-7B79C9B2E9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1263E1-A025-8767-F6CE-7B79C9B2E9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1263E1-A025-8767-F6CE-7B79C9B2E9C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

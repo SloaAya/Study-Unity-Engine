@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson2_一维数组")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e347a86956a886d359b5292ac69f93d2615cf58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3230c205035ea5cc274a976f645393650a88045")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson2_一维数组")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson2_一维数组")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

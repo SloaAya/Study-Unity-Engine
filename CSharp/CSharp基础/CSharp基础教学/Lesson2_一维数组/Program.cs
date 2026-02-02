@@ -21,8 +21,85 @@ namespace Lesson2_一维数组
             //变量类型 [] 数组名 = new 变量类型[数组的长度];
             int[] arr2 = new int[5]; //这种方式 相当于开了5个房间 但是房间里面的int值 默认为0
 
+
+            //变量类型 [] 数组名 = new 变量类型[数组的长度]{内容一，内容二，内容三，.....};
+            int[] arr3 = new int[5] { 1, 2, 3, 4, 5 };
+
+            //变量类型 [] 数组名 = new 变量类型[ ]{内容一，内容二，内容三，.....};
+            int[] arr4 = new int[] { 1 , 2 , 3 , 4 };//后面的内容就决定了 数组的长度"房间数"
+
+            //变量类型[] 数组名 = {内容一，内容二，内容三};
+            int[] arr5 = {1 , 2 , 3 , 4 , 5 };
+
+            bool[] arr6 = new bool[] { true , false , false , true };
             #endregion
 
+            #region 知识点三 数组的使用
+            int[] array = { 1 , 2 , 3 , 4 , 5 };
+            //1.数组的长度
+            Console.WriteLine(array.Length);
+
+            //2.获取数组中的元素
+            //数组中的下标和索引 他们是从0开始的
+            //通过 索引下标去  获得数组中的某一个元素是
+            //一定注意！！！！！！！！
+            //不能越界
+            Console.WriteLine(array[0]);
+            Console.WriteLine(array[1]);
+            Console.WriteLine(array[4]);
+
+            //3.修改数组中的元素
+            array[0] = 99;
+            Console.WriteLine(array[0]);
+
+            //4.遍历数组 通过循环 快速获取数组中的每一个元素
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.WriteLine(array[i]);
+            }
+
+            //5.增加数组的元素
+            //数组初始化以后 是不能够 直接添加新的元素的
+            Console.WriteLine("**********************");
+            int[] array2 = new int[6];
+            for (int i = 0; i < array.Length; i++)
+            {
+                array2[i]= array[i];
+            }
+            array = array2;
+            array[5] = 99999;
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.WriteLine(array[i]);
+            }
+
+            //6.删除数组的元素
+            //数组初始化以后 是不能够 直接删除元素的
+            //搬家的原理
+            int[] array3 = new int[5];
+            //搬家
+            for (int i = 0; i < array3.Length; i++)
+            {
+                array3[i] = array[i];
+            }
+            array = array3;
+            Console.WriteLine(array.Length);
+
+            //7.查找数组中的元素
+            //99 2 3 4 5 
+            //查找 3 这个元素在哪个位置
+            //只有通过遍历才能确定 数组总 是否存储了一个目标元素
+            int a = 3;
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] == a)
+                { 
+                    Console.WriteLine("和a相等的元素在{0}索引位置",i);
+                    break;
+                }    
+            }
+            #endregion
         }
     }
 }
