@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lesson1_枚举练习")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b48f3b07c97c5609a8e9a95884b1f2390c482cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e347a86956a886d359b5292ac69f93d2615cf58")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lesson1_枚举练习")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lesson1_枚举练习")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
