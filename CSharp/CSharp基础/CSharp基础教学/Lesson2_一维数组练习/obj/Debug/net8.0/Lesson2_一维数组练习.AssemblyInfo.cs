@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Lesson1_枚举")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Lesson2_一维数组练习")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+996bc444d638a13535f0ed6d4473289b42e4842a")]
-[assembly: System.Reflection.AssemblyProductAttribute("Lesson1_枚举")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Lesson1_枚举")]
+[assembly: System.Reflection.AssemblyProductAttribute("Lesson2_一维数组练习")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Lesson2_一维数组练习")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
